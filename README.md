@@ -1,0 +1,1 @@
+A registration form that collects users input, then display inputs on the same page after the user click submit
